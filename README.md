@@ -1,2 +1,2 @@
-# New-Project
+# Easy-Travel
 planning a vacation
